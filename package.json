@@ -1,7 +1,7 @@
 {
   "name": "web3-components-demo",
   "version": "0.1.0",
-  "homepage": "https://covalenthq.github.io/Web3-Components-Demo",
+  "homepage": "https://harishraisinghani.github.io/web3-components-demo",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@covalenthq/web3-components": "^0.3.1",
